@@ -1,174 +1,174 @@
 [[GIAC]]
 arch = "aarch64"
-git-tree-sha1 = "5e8a831d0fef5a74fbcadfe357b7a932313b9fe1"
+git-tree-sha1 = "ecf2beae5145924fc8d151fa5b57b85738c8367b"
 os = "macos"
 
     [[GIAC.download]]
-    sha256 = "605fda9bb8d5b0eb129ae66c782f2a0d41f4f623f6843fab6e85e4995bd129f0"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "45ad448bcab5d8af5805d56c62004effdbfc96decd0824235ededa85c7e2945c"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.aarch64-apple-darwin.tar.gz"
 [[GIAC]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "36742c8cf5e44266ec3a4466318bdb3b9e0e71ed"
+git-tree-sha1 = "37a5c3cf4869ea11dc86037fec007f768776b0ea"
 libc = "glibc"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "607394bd95dea9077a3ff44dc6879b2d609f514401aaf8b390030c3c04f9b978"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c1ea2af6c7c4b8ee8a38462069a5f94ed64c4830cbdcf18ec25ac3cd042c0780"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[GIAC]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4559a7e1f334e133809904e08ef499e2232f08a8"
+git-tree-sha1 = "0c324e6680dce06ffaac21d8385b7142f7dcad73"
 libc = "musl"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "8a74c4e0d48d5b4a385c06e7fb8c8f8d31e2153fcaf0944362412c473885b2bc"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "451fb5fed31fc416309c14ff5e17dcfece5e3d1f8e3afc1cad7fbe6ede239b87"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.aarch64-linux-musl-cxx11.tar.gz"
 [[GIAC]]
 arch = "aarch64"
-git-tree-sha1 = "674e8674fcddd3f3438e68715f70f0232b1d496f"
+git-tree-sha1 = "5840606fd6741d6fe48dad4dae93a5261c7ae591"
 os = "freebsd"
 
     [[GIAC.download]]
-    sha256 = "633ed4cbe8c2c05e2faed5b4f43fce2aaf376b68f2a59ac1c97c840585220411"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "e92e73d900e31b01b66240a4e6314240ae7e9545671a6e2053bc4da640712794"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.aarch64-unknown-freebsd.tar.gz"
 [[GIAC]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "01d315a15248553082417eda245cfd0dba625b23"
+git-tree-sha1 = "eea742ed668578218ca8a355460ed1be1d54b3f0"
 libc = "glibc"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "32bc922ac1fecfa9cfddc479d435280789e55f391031761e3297fa5d178b16e3"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "ef56f674296b9bfed824d273335076f2a6516745248f7c5d1b45cafc5aa56fcf"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[GIAC]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c37ab3ca58f46caa38e8f69cdfefe90dbf37b9a0"
+git-tree-sha1 = "8ad3a9480f50a5854145a15dca72415f4d61fb76"
 libc = "musl"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "b0ebba2b3f651b4913832517acacd79658601c6df2607450254af821f68b94c8"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "56b3f5e48c1f47e8ffadb57f7ea223b7beb683095f8c448b618f62623af9f28b"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[GIAC]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b9ae5514d27b942ef18228bec1af33ab9bb547a9"
+git-tree-sha1 = "19a36e0c47199921d9ced764e0d14d1c3cfc5fd7"
 libc = "glibc"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "102a4caf04a4958a6ab609a6589b0259800151b8052b47adb545ce64cf133d83"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "ac6f6108eb138e63d802012423370fb52d3602feefd66dee586616af3bee4cbe"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[GIAC]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "577cb57355a02a501415b2f5864c334d778f0694"
+git-tree-sha1 = "0cb23ad491b5ee51de87af30220648e4094dddcb"
 libc = "musl"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "9728cb25c874ab6b904dbc837a45ea1116a406541536f648a89629fe4cbd78b9"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "5f1d422258334c28dc3e4feaa4a54156513a8a82851030448723f1ff26af61e4"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[GIAC]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4005a81098f7a35716ae2902dee6c2cad7c883b4"
+git-tree-sha1 = "d300a9f560372c27cb50a364817bae1461a559ef"
 libc = "glibc"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "379871c2c006bf3358f59a8d0fbc7f6bbedcbcb5dd6b5676db30cd93f32fa410"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "bf70329eacf81a038809c9c86ee4c5ef39bf755ff049e2d900691774cf7da262"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.i686-linux-gnu-cxx11.tar.gz"
 [[GIAC]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9da51e5368992f1a4d36e9d186891e45020cb7e8"
+git-tree-sha1 = "db749af26857449617e67854c87de143e3048177"
 libc = "musl"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "b57edaace4df57a568af40d2ac8744f69d29157b3cf3a50e4e077b60068578a4"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "03712ac8231c495988f6f891224ca22d23c473cd360521078c4ccb78d8164a74"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.i686-linux-musl-cxx11.tar.gz"
 [[GIAC]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7f472d5146e56a3cfae45590d947ee8fa4cfdcb4"
+git-tree-sha1 = "30354097847af2321e0490a4910387c8610f05a7"
 os = "windows"
 
     [[GIAC.download]]
-    sha256 = "65d49726cda465043472f7c45c424401440508ebc4a3cf6c161c6bd11a57e024"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "118fb8bfd6f941f5da1e768d39a609822bc1bcc914ea6b5b3a50d6de28140abd"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.i686-w64-mingw32-cxx11.tar.gz"
 [[GIAC]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "087f0dd6e8cd3d9d1e216934099f1d10453a50ea"
+git-tree-sha1 = "8593108d6e11d074462dc81a3c880a5978de4f46"
 libc = "glibc"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "814a505d4242cb3183b7d6c098ad28c172aabbaa7e4cdf30dd1a0ab190e74924"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "5bda4780156b405919ac7178c42fc84dc7f59b5a3f97696f7d04347dae131eee"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[GIAC]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4d4f7eb2a921ae9b5aba215e764badd3551ac94d"
+git-tree-sha1 = "0c5ff6d010207986d0a5727a113c9d28400b2dc7"
 libc = "glibc"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "681406bebb32aeb1c33728d6a773d9431b7d402882d065678ce5cb6d8954e991"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "69aa86c0ee26fca5d6e9c20e468ea64c68e927004172a91dfb94e7b6b853024d"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.riscv64-linux-gnu-cxx11.tar.gz"
 [[GIAC]]
 arch = "x86_64"
-git-tree-sha1 = "09a6cfc1b417fd0e8db09f415ef77db118a67f64"
+git-tree-sha1 = "52efac1c3dff853948958872a3a457c7185077b6"
 os = "macos"
 
     [[GIAC.download]]
-    sha256 = "8dd6b892a66d679cf96a45262bcdbf02ab511ef333d68d942be187607f32180e"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "845f28e2217d96f21ca7ef217905a3cc225bb32dec2048b01e5b86c8aaf8e21b"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.x86_64-apple-darwin.tar.gz"
 [[GIAC]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d278a3fc5d59c32863553fa32f7dd7691045cad7"
+git-tree-sha1 = "c6d5f8cc3e0b0c26b7db5c476fac3ad102a7bfd3"
 libc = "glibc"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "d06d2b488ea5dfadd581eb8fc7bf5f569813a33c0ce18dda9654d97614716772"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8c0169dbac0bd52c35cfe3dbea1745d2fda1c2d6a034b490f1e640b9fccfdcba"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[GIAC]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "07ffe8a04342731254c0f872b6372e0d2aef2ff4"
+git-tree-sha1 = "dbbb0731cf428836928a7c29c6267b5cbfe300e1"
 libc = "musl"
 os = "linux"
 
     [[GIAC.download]]
-    sha256 = "6ddcf4b7c3936e34001851925677172e600d8131b23fc831dc269a8d9459c2e3"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "72a6033a98352fccbb0ac5f0e4e3e887d3d589fc083c5c71a049e1d5b365a27b"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.x86_64-linux-musl-cxx11.tar.gz"
 [[GIAC]]
 arch = "x86_64"
-git-tree-sha1 = "6b16f703ff3e2ebaa7e2a5a838c18ca5bcb8a59c"
+git-tree-sha1 = "8c0cae0bf76aae65755efb7dfb54a553ccc5422c"
 os = "freebsd"
 
     [[GIAC.download]]
-    sha256 = "1c98cc5bde7536a51f833d3d8c00e4082d5af207f930c80971a650d780180565"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ef2569df4e5c437f9b16fc3db9a8ca2e49dc5d6ddce991c6297a470c15333028"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.x86_64-unknown-freebsd.tar.gz"
 [[GIAC]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1a3d1fcbd8fcd5487bf9639b9d2ad041e2fb3876"
+git-tree-sha1 = "8e04994d5cee076f5794487a2e248e1faf70da8f"
 os = "windows"
 
     [[GIAC.download]]
-    sha256 = "06150c240bd38e6b4b12d472be5be37a528a60147a759c6266cad7d4f54e2337"
-    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.0+0/GIAC.v2.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "885ab2cd164d8e78b5b9004a3b0223fbfdd70e32f6344c9a63e1368ade232b68"
+    url = "https://github.com/JuliaBinaryWrappers/GIAC_jll.jl/releases/download/GIAC-v2.0.1+0/GIAC.v2.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
