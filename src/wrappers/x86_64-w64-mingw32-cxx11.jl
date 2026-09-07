@@ -5,12 +5,17 @@ using Gettext_jll
 using GMP_jll
 using MPFR_jll
 using Readline_jll
+using GSL_jll
+using OpenBLAS32_jll
+using CompilerSupportLibraries_jll
+using GLPK_jll
+using PARI_jll
 JLLWrappers.@generate_wrapper_header("GIAC")
 JLLWrappers.@declare_file_product(aide_cas)
 JLLWrappers.@declare_library_product(libgiac, "libgiac-0.dll")
 JLLWrappers.@declare_executable_product(icas)
 function __init__()
-    JLLWrappers.@generate_init_header(Gettext_jll, GMP_jll, MPFR_jll, Readline_jll)
+    JLLWrappers.@generate_init_header(Gettext_jll, GMP_jll, MPFR_jll, Readline_jll, GSL_jll, OpenBLAS32_jll, CompilerSupportLibraries_jll, GLPK_jll, PARI_jll)
     JLLWrappers.@init_file_product(
         aide_cas,
         "share\\giac\\aide_cas",
